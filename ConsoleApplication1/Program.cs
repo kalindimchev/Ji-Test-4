@@ -12,6 +12,7 @@ namespace ConsoleApplication1
         {
             Console.WriteLine();
             var a = 5;
+            var b = 6;
 
             int number = Add(a);
         }
