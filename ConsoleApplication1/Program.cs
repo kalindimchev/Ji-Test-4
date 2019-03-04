@@ -11,8 +11,12 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             Console.WriteLine();
-            var a = 5;
+            var a = 5;           
+        }
 
+        public void NaKalinMetoda()
+        {
+            Console.WriteLine("pishem samo gluposti");
         }
     }
 }
