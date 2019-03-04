@@ -13,6 +13,13 @@ namespace ConsoleApplication1
             Console.WriteLine();
             var a = 5;
 
+            int number = Add(a);
+        }
+
+        private static int Add(int a)
+        {
+            int b = 7;
+            return a + b;
         }
     }
 }
