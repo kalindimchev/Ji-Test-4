@@ -19,6 +19,7 @@ namespace ConsoleApplication1
         private static int Add(int a)
         {
             int b = 7;
+            b = 5;
             return a + b;
         }
     }
